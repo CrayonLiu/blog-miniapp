@@ -7,7 +7,7 @@
     "pages/error/index"
   ],
   "window": {
-    "navigationBarTitleText": "迷迷蒙蒙明明灭灭",
+    "navigationBarTitleText": "宝安杨紫",
     "navigationBarBackgroundColor": "#f1f1f1",
     "navigationBarTextStyle": "black",
     "backgroundTextStyle": "dark",
@@ -20,12 +20,6 @@
         "text": "文章",
         "iconPath": "res/icons/blog.png",
         "selectedIconPath": "res/icons/blog1.png"
-      },
-      {
-        "pagePath": "pages/douban/index",
-        "text": "豆瓣",
-        "iconPath": "res/icons/douban.png",
-        "selectedIconPath": "res/icons/douban1.png"
       },
       {
         "pagePath": "pages/about/index",
